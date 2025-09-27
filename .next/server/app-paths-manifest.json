@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login-in-page/page": "app/login-in-page/page.js",
+  "/main-app/Home/page": "app/main-app/Home/page.js",
+  "/main-app/ai-chat-ui/page": "app/main-app/ai-chat-ui/page.js",
+  "/main-app/heart-line/page": "app/main-app/heart-line/page.js",
+  "/main-app/heart-line/selected-therapist/page": "app/main-app/heart-line/selected-therapist/page.js",
+  "/main-app/mood-journal/page": "app/main-app/mood-journal/page.js",
+  "/main-app/settings/page": "app/main-app/settings/page.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/abdul/Desktop/MitraAI/frontend/app/LandingPage.tsx/Hero.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Hero = () => {\r\n  return (\r\n    <section className=\"min-h-screen bg-amber-100\">\r\n        <h1>hehehe hero part</h1>\r\n    </section>\r\n  )\r\n}\r\n\r\nexport default Hero"],"names":[],"mappings":";;;;;AAEA,MAAM,OAAO;IACX,qBACE,8OAAC;QAAQ,WAAU;kBACf,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGZ;uCAEe","debugId":null}},
+    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/abdul/Desktop/MitraAI/frontend/app/page.tsx"],"sourcesContent":["import React from \"react\";\nimport Hero from \"./LandingPage.tsx/Hero\";\n\nexport default function Home() {\n  return (\n    <main className=\"flex flex-col\">\n      <Hero />\n      <section className=\"min-h-screen bg-amber-200\">\n        <h1>hehehe features part</h1>\n      </section>\n      <section className=\"min-h-screen bg-amber-500\">\n        <h1>contact part</h1>\n      </section>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;AACA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;;0BACd,8OAAC,kIAAA,CAAA,UAAI;;;;;0BACL,8OAAC;gBAAQ,WAAU;0BACjB,cAAA,8OAAC;8BAAG;;;;;;;;;;;0BAEN,8OAAC;gBAAQ,WAAU;0BACjB,cAAA,8OAAC;8BAAG;;;;;;;;;;;;;;;;;AAIZ","debugId":null}}]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/abdul/Desktop/MitraAI/frontend/app/page.tsx"],"sourcesContent":["import React from \"react\";\nimport Hero from \"../LandingPageComponents/Hero\";\nimport Features from \"../LandingPageComponents/Features\";\nimport Footer from \"../LandingPageComponents/Footer\";\nimport { LandingNavbar } from \"../components/LandingNavBar\";\n\nexport default function Home() {\n  return (\n    <main className=\"flex flex-col\">\n      <LandingNavbar/>\n      <Hero />\n      <Features />\n      <Footer />\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAMe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;;0BACd,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;;;;;;;AAGP","debugId":null}}]
+}

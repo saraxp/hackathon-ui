@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/ScrollStack/ScrollStack.css"],"sourcesContent":[".scroll-stack-scroller {\r\n  position: relative;\r\n  width: 100%;\r\n  height: 100%;\r\n  overflow-y: auto;\r\n  overflow-x: visible;\r\n  overscroll-behavior: contain;\r\n  -webkit-overflow-scrolling: touch;\r\n  scroll-behavior: smooth;\r\n  -webkit-transform: translateZ(0);\r\n  transform: translateZ(0);\r\n  will-change: scroll-position;\r\n}\r\n\r\n.scroll-stack-inner {\r\n  padding: 20vh 5rem 50rem;\r\n  min-height: 100vh;\r\n}\r\n\r\n.scroll-stack-card-wrapper {\r\n  position: relative;\r\n}\r\n\r\n.scroll-stack-card {\r\n  transform-origin: top center;\r\n  will-change: transform, filter;\r\n  backface-visibility: hidden;\r\n  transform-style: preserve-3d;\r\n  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);\r\n  height: 20rem;\r\n  width: 100%;\r\n  margin: 30px 0;\r\n  padding: 3rem;\r\n  border-radius: 40px;\r\n  box-sizing: border-box;\r\n  /* Improve mobile performance */\r\n  -webkit-transform: translateZ(0);\r\n  transform: translateZ(0);\r\n  position: relative;\r\n}\r\n\r\n.scroll-stack-end {\r\n  width: 100%;\r\n  height: 1px;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;AAcA;;;;;AAKA;;;;AAIA;;;;;;;;;;;;;;;;;AAkBA"}}]
+}

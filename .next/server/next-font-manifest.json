@@ -1,0 +1,25 @@
+{
+  "app": {
+    "[project]/app/login-in-page/page": [
+      "static/media/584d3c07c9bf78c8-s.p.70bc9660.woff2"
+    ],
+    "[project]/app/main-app/ai-chat-ui/page": [
+      "static/media/584d3c07c9bf78c8-s.p.70bc9660.woff2"
+    ],
+    "[project]/app/main-app/heart-line/page": [
+      "static/media/584d3c07c9bf78c8-s.p.70bc9660.woff2"
+    ],
+    "[project]/app/main-app/heart-line/selected-therapist/page": [
+      "static/media/584d3c07c9bf78c8-s.p.70bc9660.woff2"
+    ],
+    "[project]/app/main-app/mood-journal/page": [
+      "static/media/584d3c07c9bf78c8-s.p.70bc9660.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/584d3c07c9bf78c8-s.p.70bc9660.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
